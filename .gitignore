@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# ChromaDB / Vector store caches
+vectorstore/
+data/vector_store/
+*.sqlite3
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
